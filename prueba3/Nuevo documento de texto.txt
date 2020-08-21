@@ -1,0 +1,9 @@
+https://www.youtube.com/watch?v=bknZdA0ckHw
+accesos de guit bush:
+git clone-- clona un repositorio
+git status-- que archivos seran agregados al repo
+git add-- agregar archivos (git -A-> agregar todo el contenido)
+git pull-- descargar todo el contenido
+git push-- subir todo el contenido
+git log -- ver todos los commit recientes
+git commit -- guardar una copia local de todos los cambios hechos
